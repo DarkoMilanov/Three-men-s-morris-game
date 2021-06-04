@@ -1,0 +1,12 @@
+c:\users\darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\bin\Debug\IgricaMica.exe.config
+c:\users\darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\bin\Debug\IgricaMica.exe
+c:\users\darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\bin\Debug\IgricaMica.pdb
+c:\users\darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\obj\Debug\IgricaMica.csprojResolveAssemblyReference.cache
+c:\users\darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\obj\Debug\IgricaMica.Form1.resources
+c:\users\darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\obj\Debug\IgricaMica.Properties.Resources.resources
+c:\users\darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\obj\Debug\IgricaMica.csproj.GenerateResource.Cache
+c:\users\darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\obj\Debug\IgricaMica.exe
+c:\users\darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\obj\Debug\IgricaMica.pdb
+C:\Users\Darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\obj\Debug\IgricaMica.Form2.resources
+C:\Users\Darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\obj\Debug\IgricaMica.Form3.resources
+C:\Users\Darko\documents\visual studio 2013\Projects\IgricaMica\IgricaMica\obj\Debug\IgricaMica.Form4.resources
